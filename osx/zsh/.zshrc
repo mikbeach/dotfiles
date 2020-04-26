@@ -55,7 +55,7 @@ COMPLETION_WAITING_DOTS="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git extract node npm colorize jump osx z)
+plugins=(git extract node npm colorize jump osx z emoji zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -76,7 +76,7 @@ export LANG=en_GB.UTF-8
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
-source $HOME/.zsh_aliases
-
+# source $HOME/.zsh_aliases
+# source $HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 
