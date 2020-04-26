@@ -76,7 +76,7 @@ export LANG=en_GB.UTF-8
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
-# source $HOME/.zsh_aliases
-# source $HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $HOME/.zsh_aliases
+source $HOME/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 
